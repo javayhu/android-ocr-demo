@@ -1,3 +1,7 @@
+#android-ocr-demo
+
+a demo application forked from [android-ocr](https://github.com/rmtheis/android-ocr) with some files modified to make it run.
+
 #android-ocr
 
 An experimental app for Android that performs optical character recognition (OCR) on images captured using the device camera.
